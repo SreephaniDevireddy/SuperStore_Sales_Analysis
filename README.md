@@ -13,7 +13,7 @@ Superstore is close to a real-world fake dataset with 10,000 records of sales in
 <h3 align="left"> Highlights of Sales Analysis </h3>
 California state contributed the highest sales in all years generating the highest revenue of more than 700k in 2018. November and December are the top months to generate more than 50% of revenue to total yearly sales in the consumer segment, which can be considered as the safe months to introduce new categories by the store managers.
 
-<h4 align="left"> [Tableau Dashboard] </h4>
+
 [Tableau Dashboard](https://public.tableau.com/app/profile/sreephani.devireddy/viz/SuperstoreSalesAnalysisDashbaord/SuperStoreSalesAnalysisDashboard)
 
 
